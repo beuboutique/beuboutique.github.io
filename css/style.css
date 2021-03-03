@@ -258,7 +258,7 @@ nav.main-menu {
 }
 
 .gallery_blog h2 {
-    color: #fff;
+    color: #FBD3CF;
     line-height: 287px;
     width: 100%;
     text-align: center;
@@ -275,7 +275,7 @@ nav.main-menu {
 	width: 100%;
 	float: left;
 	font-size: 50pt;
-	color: #fa3e19;
+	color: #0A3E1F;
 	line-height: 75px;
 }
 .taital{
@@ -296,7 +296,7 @@ nav.main-menu {
 .bt_main{
 	width: 100%;
 	float: left;
-	background-color: #fa3e19;
+	background-color: #E38D25;
 	height: 50px;
     font-size: 16pt;
     border: 0px;
@@ -317,7 +317,7 @@ nav.main-menu {
  .about_text{
  	width: 100%;
  	float: left;
- 	color: #fa3e19;
+ 	color: #0A3E1F;
  	font-size: 50pt;
  	border-bottom: 3px solid #111111;
     margin-top: 65px;
@@ -336,7 +336,7 @@ nav.main-menu {
  .read_more{
 	width: 30%;
 	float: left;
-	background-color: #fa3e19;
+	background-color: #E38D25;
 	height: 50px;
 	font-size: 16pt;
 	margin-top: 20px;
@@ -357,7 +357,7 @@ nav.main-menu {
  	border-bottom: 3px solid #111111;
 
  }
- .den{ color: #fa3e19; }
+ .den{ color: #0A3E1F; }
 
 .product_section_2{
 	width: 100%;
@@ -369,11 +369,11 @@ nav.main-menu {
 	width: 100%;
 	float: left;
 	text-align: center;
-	color: #fa3e19;
+	color: #E38D25;
 	font-weight: 700;
 
 }
-.den_text a{ color: #fa3e19}
+.den_text a{ color: #E38D25}
 
 .den_text a:hover{
 	 color: #000;
@@ -399,7 +399,7 @@ nav.main-menu {
 }
 
 .our_text{
-	color: #fa3e19;
+	color:  #0A3E1F;
 	border-bottom: 3px solid #111111;
 }
 
@@ -429,7 +429,7 @@ nav.main-menu {
 .input_main {
     width: 100%;
     float: left;
-    background-color: #fa3e19;
+    background-color: #F9AD9C;
     padding: 40px 20px 13px 20px;
 }
 
@@ -471,7 +471,7 @@ button.main_bt {
 
 }
 
-button.main_bt a:hover { color: #fa3e19; }
+button.main_bt a:hover { color:  #FBD3CF; }
 
 .map_section{
 	width: 100%;
