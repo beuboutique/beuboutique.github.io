@@ -131,7 +131,7 @@ p {
 }
 
 a {
-     color: #ffffff;
+     color: #FEEDE7;
      text-decoration: none;
      outline: none !important;
 }
@@ -174,10 +174,10 @@ nav.main-menu {
 
 .banner_section_start{
 	width: 100%;
-	float: left; 
-	background-color: #fefcfb; 
-	height: auto; 
-	padding-top: 20px; 
+	float: left;
+	background-color: #FEEDE7;
+	height: auto;
+	padding-top: 20px;
 	padding-bottom: 20px;
 	border-bottom: 1px solid #000;
 }
@@ -191,12 +191,12 @@ nav.main-menu {
     vertical-align: middle;
 }
 
-.mean-container .mean-bar { background: #ed1c24;}
+.mean-container .mean-bar { background: #E38D25;}
 
-.main-menu ul > li.active a{ background-color: #ed1c24; color: #ffffff; }
+.main-menu ul > li.active a{ background-color: #E38D25; color: #FEEDE7; }
 
 .carousel-indicators .active {
-    background-color: #fa3e19;
+    background-color: #F9AD9C;
 }
 
 .carousel-indicators li { background-color: #000; height: 10px;}
@@ -205,7 +205,7 @@ nav.main-menu {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background: #fa3e19;
+    background: #F9AD9C;
     background-size: 100% 100%;
     padding-top: 8px;
 }
@@ -301,10 +301,10 @@ nav.main-menu {
     font-size: 16pt;
     border: 0px;
     color: #fff;
-   
+
     }
     .bt_main :hover {color: #000;}
-.banner_bt{ 
+.banner_bt{
 	width: 15%;
 	margin: 0 auto;
  }
@@ -355,7 +355,7 @@ nav.main-menu {
  	color: #383737;
  	font-size: 50pt;
  	border-bottom: 3px solid #111111;
-  
+
  }
  .den{ color: #fa3e19; }
 
@@ -376,7 +376,7 @@ nav.main-menu {
 .den_text a{ color: #fa3e19}
 
 .den_text a:hover{
-	 color: #000; 
+	 color: #000;
 }
 .croissants{ color: #000; }
 
@@ -452,7 +452,7 @@ nav.main-menu {
 .massage-bt {
     color: #000;
     border: none;
- 
+
     width: 100%;
     height: 145px;
     font-size: 16px;
@@ -467,8 +467,8 @@ button.main_bt {
     height: 50px;
     font-size: 22px;
     margin-top: 45px;
-  
-    
+
+
 }
 
 button.main_bt a:hover { color: #fa3e19; }
@@ -511,9 +511,9 @@ button.main_bt a:hover { color: #fa3e19; }
 }
 
 .image-icon{
-	width: 100%; 
+	width: 100%;
 	float: left;
-	padding-top: 10px;	
+	padding-top: 10px;
 
 }
 .email_text {
@@ -527,18 +527,18 @@ button.main_bt a:hover { color: #fa3e19; }
 }
 
 .social_icon ul{
-	margin: 0px; 
+	margin: 0px;
 	padding: 0px;
 }
 
-.social_icon li{ 
-	float: left; 
+.social_icon li{
+	float: left;
 	padding-right: 15px;
 	margin-top: 25px;
 }
 
 .footer-img{
-	width: 100%; 
+	width: 100%;
 	float: left;
 	margin-top: 15px;
 }
@@ -551,7 +551,7 @@ button.main_bt a:hover { color: #fa3e19; }
 }
 
 .copyright_taital{
-	font-weight: 18px; 
+	font-weight: 18px;
 	color: #010000;
 	text-align: center;
 }
